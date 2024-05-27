@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @16JoeTheCoder
+- 👀 I’m interested in Artificial Intelligence, Sales, Books, Movies, and Sports
+- 🌱 I’m currently learning Python, Pygame, and Basic Neural Networks
+- 📫 How to reach me josefyang.official@gmail.com
+- ⚡ Fun fact: Lego Batman was a really good movie
