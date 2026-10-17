@@ -14,8 +14,8 @@ I am a high school student and developer focused on combining **Physics**, **Art
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, JavaScript, TypeScript, HTML5/CSS3
-* **Frontend & Web:** React, Three.js, Tailwind CSS
+* **Languages:** Python (Intermediate level)
+* **Frontend & Web:** React.js and Tailwind CSS
 * **Tools & Environment:** Git, GitHub, Docker, PowerShell
 
 ---
